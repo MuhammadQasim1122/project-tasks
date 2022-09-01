@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">task1-cap</string>
+    <string name="title_activity_main">task1-cap</string>
+    <string name="package_name">com.task1.task1app</string>
+    <string name="custom_url_scheme">com.task1.task1app</string>
+</resources>

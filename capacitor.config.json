@@ -1,0 +1,6 @@
+{
+  "appId": "com.task1.task1app",
+  "appName": "task1-cap",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
